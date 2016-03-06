@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\wk\\Google Drive\\USA\\academy\\opensourse\\hhr-student\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\ios_639_2_utf_8.txt",
+        "source": "C:\\Users\\wk\\Google Drive\\USA\\academy\\opensourse\\hhr-student\\Application\\src\\main\\res\\raw\\ios_639_2_utf_8.txt"
+    },
+    {
+        "merged": "C:\\Users\\wk\\Google Drive\\USA\\academy\\opensourse\\hhr-student\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\wk\\Google Drive\\USA\\academy\\opensourse\\hhr-student\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.5.0\\res\\raw\\gtm_analytics"
+    }
+]
